@@ -907,7 +907,7 @@ class User
 
 ### Locale
 
-Valida que un valor sea un _locale_ válido, ya sea con las dos letras del idioma (_fr_) o con cuatro especificando el país (_fr_FR_).
+Valida que un valor sea un _locale_ válido, ya sea con las dos letras del idioma (_fr_) o con cuatro especificando el país (_fr\_FR_).
 
 **Aplicación**: propiedad o método
 **Opciones**: message, payload
